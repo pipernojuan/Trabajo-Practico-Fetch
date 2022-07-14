@@ -21,3 +21,4 @@ const tipoPartida = [
 ]
 
 const costoPorPersona = 15000.35
+
